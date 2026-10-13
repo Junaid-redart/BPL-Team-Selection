@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "playerImg": "https://images.unsplash.com/photo-1531415074968-036ba1b575da",
+    "playerName": "Shakib Al Hasan",
+    "origin": "Bangladesh",
+    "role": "All-Rounder",
+    "playingHand": "Left Hand",
+    "price": 1200,
+    "choosePlayer": "Choose Player"
+  },
+  {
+    "id": 2,
+    "playerImg": "https://images.unsplash.com/photo-1540747913346-19e32dc3e97e",
+    "playerName": "Virat Kohli",
+    "origin": "India",
+    "role": "Batter",
+    "playingHand": "Right Hand",
+    "price": 1500,
+    "choosePlayer": "Choose Player"
+  },
+  {
+    "id": 3,
+    "playerImg": "https://images.unsplash.com/photo-1531415074968-036ba1b575da",
+    "playerName": "Babar Azam",
+    "origin": "Pakistan",
+    "role": "Batter",
+    "playingHand": "Right Hand",
+    "price": 1400,
+    "choosePlayer": "Choose Player"
+  },
+  {
+    "id": 4,
+    "playerImg": "https://images.unsplash.com/photo-1540747913346-19e32dc3e97e",
+    "playerName": "Jasprit Bumrah",
+    "origin": "India",
+    "role": "Bowler",
+    "playingHand": "Right Hand",
+    "price": 1300,
+    "choosePlayer": "Choose Player"
+  },
+  {
+    "id": 5,
+    "playerImg": "https://images.unsplash.com/photo-1531415074968-036ba1b575da",
+    "playerName": "Rashid Khan",
+    "origin": "Afghanistan",
+    "role": "Bowler",
+    "playingHand": "Right Hand",
+    "price": 1100,
+    "choosePlayer": "Choose Player"
+  },
+  {
+    "id": 6,
+    "playerImg": "https://static-files.cricket-australia.pulselive.com/headshots/440/196-camedia.png",
+    "playerName": "Ben Stokes",
+    "origin": "England",
+    "role": "All-Rounder",
+    "playingHand": "Left Hand",
+    "price": 1250,
+    "choosePlayer": "Choose Player"
+  },
+  {
+    "id": 7,
+    "playerImg": "https://images.unsplash.com/photo-1531415074968-036ba1b575da",
+    "playerName": "David Warner",
+    "origin": "Australia",
+    "role": "Batter",
+    "playingHand": "Left Hand",
+    "price": 1000,
+    "choosePlayer": "Choose Player"
+  },
+  {
+    "id": 8,
+    "playerImg": "https://images.unsplash.com/photo-1540747913346-19e32dc3e97e",
+    "playerName": "Trent Boult",
+    "origin": "New Zealand",
+    "role": "Bowler",
+    "playingHand": "Left Hand",
+    "price": 950,
+    "choosePlayer": "Choose Player"
+  },
+  {
+    "id": 9,
+    "playerImg": "https://images.unsplash.com/photo-1531415074968-036ba1b575da",
+    "playerName": "Kane Williamson",
+    "origin": "New Zealand",
+    "role": "Batter",
+    "playingHand": "Right Hand",
+    "price": 1150,
+    "choosePlayer": "Choose Player"
+  },
+  {
+    "id": 9,
+    "playerImg": "https://images.unsplash.com/photo-1531415074968-036ba1b575da",
+    "playerName": "Kane Williamson",
+    "origin": "New Zealand",
+    "role": "Batter",
+    "playingHand": "Right Hand",
+    "price": 1150,
+    "choosePlayer": "Choose Player"
+  },
+  {
+    "id": 9,
+    "playerImg": "https://images.unsplash.com/photo-1531415074968-036ba1b575da",
+    "playerName": "Kane Williamson",
+    "origin": "New Zealand",
+    "role": "Batter",
+    "playingHand": "Right Hand",
+    "price": 1150,
+    "choosePlayer": "Choose Player"
+  },
+  {
+    "id": 10,
+    "playerImg": "https://images.unsplash.com/photo-1540747913346-19e32dc3e97e",
+    "playerName": "Andre Russell",
+    "origin": "West Indies",
+    "role": "All-Rounder",
+    "playingHand": "Right Hand",
+    "price": 1050,
+    "choosePlayer": "Choose Player"
+  }
+]
